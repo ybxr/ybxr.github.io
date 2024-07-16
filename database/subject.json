@@ -1,23 +1,22 @@
 {
 	"_id": "002",
 	"Data": [{
-			"_id": "001",
-			"name": "审计学",
-			"table": "List1",
-			"time": "2022/05/30",
-			"totall": 999
-		}, {
-			"_id": "002",
-			"name": "财管",
-			"table": "List1",
-			"time": "2022/05/31",
-			"totall": 999
-		}, {
-			"_id": "003",
-			"name": "战略",
-			"table": "List1",
-			"time": "2022/05/31",
-			"totall": 999
-		}
+		"_id": "001",
+		"name": "\u5BA1\u8BA1\u5B66",
+		"table": "List1",
+		"time": "2022/05/30",
+		"totall": 999
+	}, {
+		"_id": "002",
+		"name": "\u8D22\u7BA1",
+		"table": "List1",
+		"time": "2022/05/31",
+		"totall": 999
+	}, {
+		"_id": "003",
+		"name": "\u6218\u7565",
+		"table": "List1",
+		"time": "2022/05/31",
+		"totall": 999
 	}]
 }
